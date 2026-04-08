@@ -14,10 +14,10 @@
             <nav class="navbar">
                 <div class="logo">Danna's Folio</div>
                 <ul class="menu">
-                    <li>Sobre mi</li>
-                    <li>Skills</li>
-                    <li>Proyectos</li>
-                    <li><button class="btn-nav">Contacto</button></li>
+                    <li><a href="#about">Sobre mi</a></li>
+                    <li><a href="#skills-section">Skills</a></li>
+                    <li><a href="#proyectos">Proyectos</a></li>
+                    <li><button class="btn-nav"><a href="formulario.html">Contacto</a></button></li>
                 </ul>
             </nav>
 
@@ -25,19 +25,18 @@
             <div class="hero-content">
                 <h1>Portfolio</h1>
                 <p>Danna Sofía Téllez Jaimes</p>
-                <button button onclick="window.location.href='sobre-mi.html'" class="btn-main">Continuar</button>
+                <button button onclick="window.location.href='#about'" class="btn-main">Comenzar</button>
             </div>
 
         </header>
-        <a href="sobre-mi.html">here </a>
-        <section class="about">
+        <section id="about">
 
             <!-- SOBRE MI -->
             <div class="about-card">
                 <div class="text">
                     <h3>SOBRE MI</h3>
                     <p>Para conocer sobre Danna Sofía Téllez presione un botón a continuación.</p>
-                    <button button onclick="window.location.href='sobre-mi.html'" class="btn">Continuar</button>
+                    <button onclick="location.href='sobre-mi.html'" class="btn">Visualizar</button>
                 </div>
 
                 <div class="photo">
@@ -46,7 +45,7 @@
             </div>
 
             <!-- SKILLS -->
-            <div class="skills-section">
+            <div id="skills-section">
 
                 <div class="skills">
                     <h3>Skills</h3>
@@ -75,25 +74,21 @@
 
         </section>
         <!-- PROYECTOS -->
-        <section class="proyectos">
+        <section id="proyectos">
             <h2 class="titulo">Proyectos</h2>
 
             <div class="cards">
                 <div class="card">
-                    <img src="img/kit1.jpg" alt="">Proyecto 1<a
-                        href="https://github.com/sunisonfire/examen-GitHub.git"></a>
+                    <img src="img/kit1.jpg" alt=""><a href="https://github.com/sunisonfire/examen-GitHub.git">Proyecto 1</a>
                 </div>
                 <div class="card">
-                    <img src="img/kit2.jpg" alt="">Proyecto 2<a
-                        href="https://github.com/sunisonfire/examen-GitHub.git"></a>
+                    <img src="img/kit2.jpg" alt=""><a href="https://github.com/sunisonfire/examen-GitHub.git">Proyecto 2</a>
                 </div>
                 <div class="card">
-                    <img src="img/kit3.jpg" alt="">Proyecto 3<a
-                        href="https://github.com/sunisonfire/examen-GitHub.git"></a>
+                    <img src="img/kit3.jpg" alt=""><a href="https://github.com/sunisonfire/examen-GitHub.git">Proyecto 3</a>
                 </div>
                 <div class="card">
-                    <img src="img/kit4.jpg" alt="">Proyecto 4<a
-                        href="https://github.com/sunisonfire/examen-GitHub.git"></a>
+                    <img src="img/kit4.jpg" alt=""><a href="https://github.com/sunisonfire/examen-GitHub.git">Proyecto 4</a>
                 </div>
             </div>
         </section>
