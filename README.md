@@ -18,8 +18,8 @@ Aquí encontrarás algunos de los proyectos que he desarrollado:
 
 🔹 Proyecto 1
 - Surge como una solución a un problema frecuente en comunidades: la falta de control en el préstamo de herramientas entre vecinos, lo que puede generar pérdidas, retrasos en las devoluciones y dificultad para identificar quién tiene cada objeto en un momento determinado.
-
 - Python
+  
 🔹 Proyecto 2
 - Esta app permite por medio de la permanencia de datos en json guardar la gestion de herramientas
 - Python
