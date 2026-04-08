@@ -7,19 +7,19 @@
 Soy una persona enfocada en mejorar cada día mis habilidades en desarrollo web. Actualmente estoy aprendiendo y practicando tecnologías como HTML, CSS, Git y Python. Me interesa construir proyectos funcionales y seguir creciendo como desarrollador junior.
 
 🛠️ Tecnologías y herramientas
-💻 HTML5
-🎨 CSS3
-🐍 Python (básico/intermedio)
-🔧 Git & GitHub
-📦 VS Code
-📂 Proyectos
+💻 HTML5,
+🎨 CSS3,
+🐍 Python (básico),
+🔧 Git & GitHub,
+📦 VS Code,
+📂 Proyectos.
 
 Aquí encontrarás algunos de los proyectos que he desarrollado:
 
 🔹 Proyecto 1
 - Surge como una solución a un problema frecuente en comunidades: la falta de control en el préstamo de herramientas entre vecinos, lo que puede generar pérdidas, retrasos en las devoluciones y dificultad para identificar quién tiene cada objeto en un momento determinado.
-
 - Python
+  
 🔹 Proyecto 2
 - Esta app permite por medio de la permanencia de datos en json guardar la gestion de herramientas
 - Python
