@@ -56,7 +56,7 @@ input {
     border: none;
     margin-top: 5px;
     background: #f3a7b5;
-    color: white;
+    color: e9cdb4;
     outline: none;
 }
 
@@ -76,7 +76,7 @@ input {
 /* BOTON */
 button {
     background: #5b0010;
-    color: white;
+    color: e9cdb4;
     padding: 10px;
     border: none;
     cursor: pointer;
