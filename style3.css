@@ -4,14 +4,13 @@ body {
     font-family: "Segoe UI", sans-serif;
 }
 
-/* CONTENEDOR */
 .contenedor {
     position: relative;
     width: 600px;
     margin: 50px auto;
 }
 
-/* CAPAS */
+
 .capa {
     position: absolute;
     width: 100%;
@@ -21,19 +20,7 @@ body {
     border-radius: 5px;
 }
 
-.capa1 {
-    background: #e7c88f;
-    z-index: 0;
-}
 
-.capa2 {
-    background: #5b0010;
-    top: 30px;
-    left: 30px;
-    z-index: 0;
-}
-
-/* TARJETA */
 .tarjeta {
     background: #f2d4d9;
     padding: 30px;
@@ -42,7 +29,6 @@ body {
     box-shadow: 10px 10px 0px #000;
 }
 
-/* CONTENIDO */
 .contenido {
     background: #e7c88f;
     padding: 20px;
@@ -60,7 +46,7 @@ p {
     margin-bottom: 10px;
 }
 
-/* CINTA */
+
 .cinta {
     background: #6d0014;
     margin-top: 20px;

@@ -1,8 +1,6 @@
 body {
     margin: 0;
-    background: #F5D0D0
-;
-    /* rosado de fondo */
+    background: #F5D0D0;
     font-family: Arial, sans-serif;
 }
 
@@ -18,9 +16,9 @@ e9cdb4 e9cdb4*/
     border: 6px solid #f5b6c4;
     border-bottom: 1300px;
     border-radius: 10px 10px 10px 10px;
+    box-shadow: inset 0 5px 10px rgba(20, 3, 3, 0.668);
 }
 
-/* NAVBAR */
 .navbar {
     display: flex;
     justify-content: space-between;
@@ -62,7 +60,6 @@ e9cdb4 e9cdb4*/
     box-shadow: 0px 10px 25px #FBDFA2;
 }
 
-/* TEXTO CENTRAL*/
 .hero-content {
     text-align: center;
     margin-top: 60px;
@@ -96,12 +93,12 @@ body {
     font-family: Arial, sans-serif;
 }
 
-/* CONTENEDOR GENERAL */
+
 #about {
     padding: 60px;
 }
 
-/* SOBRE MI */
+
 .about-card {
     background: #F8BBD0;
     color: #e9cdb4;
@@ -132,7 +129,7 @@ body {
     box-shadow: 0px 10px 25px #4A0011;
 }
 
-/* FOTO */
+
 .photo img {
     width: 180px;
     border: 6px solid #4A0011;
@@ -140,7 +137,7 @@ body {
     box-shadow: 0px 10px 25px #4A0011;
 }
 
-/* SKILLS SECTION */
+
 #skills-section {
     background-color: #4A0011;
     display: flex;
@@ -148,7 +145,6 @@ body {
     gap: 30px;
 }
 
-/* SKILLS IZQUIERDA */
 .skills {
     flex: 1;
 }
@@ -170,7 +166,6 @@ body {
     margin-bottom: 10px;
 }
 
-/* DECOR DERECHA */
 .decor {
     margin-top: 100px;
     display: flex;
@@ -215,7 +210,6 @@ body {
     background: #f6cbd3;
 }
 
-/* TITULOS */
 .titulo {
     background: #4A0011;
     color: #e9cdb4;
@@ -229,7 +223,6 @@ body {
     font-family: "Brush Script MT", cursive;
 }
 
-/* PROYECTOS */
 .proyectos {
     padding: 30px;
     text-align: center;
@@ -258,7 +251,6 @@ body {
     background: e9cdb4;
 }
 
-/* METAS */
 .metas {
     background: #f3d6db;
     padding: 30px;
@@ -273,7 +265,6 @@ body {
     gap: 20px;
 }
 
-/* TEXTO */
 .texto {
     width: 60%;
     margin-left: 20%;
@@ -283,7 +274,6 @@ body {
     color: #7a0c1d;
 }
 
-/* IMAGENES LATERALES */
 .imagenes {
     display: flex;
     flex-direction: column;

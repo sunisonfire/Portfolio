@@ -4,7 +4,6 @@ body {
     font-family: "Segoe UI", sans-serif;
 }
 
-/* CONTENEDOR */
 .contenedor {
     display: flex;
     flex-direction: column;
@@ -13,7 +12,6 @@ body {
     height: 100vh;
 }
 
-/* HOJA */
 .hoja {
     width: 400px;
     background: #f5efe6;
@@ -24,7 +22,6 @@ body {
     z-index: 2;
 }
 
-/* TOP */
 .top {
     display: flex;
     justify-content: space-between;
@@ -33,14 +30,13 @@ body {
     padding-bottom: 5px;
 }
 
-/* TITULO */
 h1 {
     text-align: center;
     font-weight: 400;
     margin: 30px 0;
 }
 
-/* FORM */
+
 form {
     display: flex;
     flex-direction: column;
@@ -60,20 +56,17 @@ input {
     outline: none;
 }
 
-/* TELEFONO COLOR DIF */
 .telefono {
     background: #f3d08a;
     color: black;
 }
 
-/* EMOJI */
 .emoji {
     text-align: center;
     font-size: 30px;
     margin: 15px 0;
 }
 
-/* BOTON */
 button {
     background: #5b0010;
     color: e9cdb4;
@@ -82,7 +75,6 @@ button {
     cursor: pointer;
 }
 
-/* FOOTER */
 .bottom {
     margin-top: 20px;
     font-size: 12px;
@@ -90,7 +82,6 @@ button {
     padding-top: 10px;
 }
 
-/* MAQUINA */
 .maquina {
     width: 420px;
     height: 120px;
